@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Parking_Project.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RequiredLibraries.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
