@@ -18,6 +18,9 @@
     <ClCompile Include="Parking_Project.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="QR_PDF.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RequiredLibraries.h">
